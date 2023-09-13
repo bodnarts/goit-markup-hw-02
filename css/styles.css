@@ -2,7 +2,13 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
 }
-address {
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.header-address {
     font-weight: 400;
     font-size: 16px;
     color: #434455;
@@ -13,11 +19,11 @@ address {
     top: 72px;
     background-color: #2E2F42;
 }
-.button {
+.order-button {
     color: #FFFFFF;
     background-color: #4D5AE5;
 }
-.page-title {
+.order-page-title {
     font-weight: 700;
     font-size: 56px;
     color: #FFFFFF;   
@@ -32,17 +38,17 @@ p {
     font-size: 16px;
     color: #434455;
 }
-.team-section {
-    background-color: #F4F4FD;
-}
-footer {
+.footer-section {
     width: 1440px; 
     height: 312px; 
     top: 2988px;
     background-color: #2E2F42;
 }
 .footer-text {
-    font-weight: 400;
-    font-size: 16px;
+    width: 264px; 
+    height: 72px; 
+    top: 3128px; 
+    left: 156px;
+    line-height: 24px;
     color: #F4F4FD;
 }
