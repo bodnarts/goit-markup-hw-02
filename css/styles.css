@@ -27,6 +27,7 @@ a {
 .header-address {
     font-weight: 400;
     font-size: 16px;
+    font-style: normal;
     color: #434455;
 }
 .header-address-link {
@@ -41,7 +42,7 @@ a {
     background-color: #2E2F42;
 }
 .order-button {
-    font-family: 'Roboti', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -88,6 +89,11 @@ p {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+.team-mate-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
 }
 .portfolio-title {
     font-size: 36px;
