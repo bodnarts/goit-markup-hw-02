@@ -18,6 +18,9 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.header-logo-color {
+    color: #2e2f42;
+}
 .header-menu-link {
     font-weight: 500;
     line-height: 1.5;
@@ -120,6 +123,9 @@ p {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+.footer-logo-color {
+    color: #f4f4fd;
 }
 .footer-text {
     line-height: 24px;
