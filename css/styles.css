@@ -63,6 +63,12 @@ a {
     background-color: #4D5AE5;
     cursor: pointer;
 }
+.order-button:hover {
+    background-color: #404bbf;
+}
+.order-button:focus {
+    background-color: #404bbf;
+}
 .order-page-title {
     font-weight: 700;
     font-size: 56px;
