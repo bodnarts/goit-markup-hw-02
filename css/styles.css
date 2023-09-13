@@ -32,11 +32,13 @@ a {
 .title {
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.5;
     color: #2E2F42
 }
 p {
     font-weight: 400;
     font-size: 16px;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .futures-title {
@@ -86,5 +88,6 @@ p {
     top: 3128px; 
     left: 156px;
     line-height: 24px;
+    letter-spacing: 0.02em;
     color: #F4F4FD;
 }
